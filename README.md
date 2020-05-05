@@ -48,7 +48,7 @@ All over the world communes and spiritual initiatives were founded and Cosmic Pa
 
 It was a strong sample of uncurbed optimism and sympathetic unworldlyness in a world that was torn by major international tensions, wars, attacks, scandals and car-free Sundays. Vietnam, Jom Kippur, Rote Armee, Watergate and the Provo party Kabouter, nothing of that sort seeped through to Cosmic Paper. Or could the origins of Cosmic Paper have been situated precisely there? 
 
-### What Cosmic Paper Stood for 
+### What Cosmic Paper stood for 
 - Medium for new movements
 - Multi-sided information
 - A preparation for AQUARIUS
