@@ -3,7 +3,7 @@
 
 ### Table of Contents
 1. [artefact](#Artefact)
-    1. [aetadata](#Metadata)
+    1. [metadata](#Metadata)
 2. [research](#Research-h1)
 3. [transcoding](#Transcoding)
     1. [transcoding No. 1](#Transcoding-no-1)
@@ -25,7 +25,7 @@ Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendri
 | **Medium** | Magazine
 | **Materials** | Paper
 | **Date** | 1972
-<img src="Documentation/img/cosmicpaper1.jpg">| One of the covers for the magazine Cosmic paper. A magazine for cosmic science with information, meditation and action, all in bold, expressive and colorful illustrations, symbolism and typography. 
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper1.jpg">| One of the covers for the magazine Cosmic paper. A magazine for cosmic science with information, meditation and action, all in bold, expressive and colorful illustrations, symbolism and typography. 
 
 ## Cosmic Paper, the magazine of De Kosmos                                           
 
@@ -94,30 +94,30 @@ Kosmos”.
 
 ### Transcoding No. 1
 #### Transcoding 1 is the literary descriptions of the covers of the issues of Cosmic Papers. 
-<img src="Documentation/img/cosmicpaper_1_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_1_cover.jpg">
 A woman is in industrial looking cosmic space surrounded by different types of structures, machine looking planets or aliens and mountains. The colours are light pink, dark blue and white. Her hair is pointing upwards and part of her head is made of the machine looking planets/aliens/structures. Everything seems to be connected to each other.
 
-<img src="Documentation/img/cosmicpaper_2_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_2_cover.jpg">
 There is a long empty road that disappears into the distance. There are some distant lights far away. The ground and the sky are both green, the road is orange. There is a lot of emptiness. There are three floating objects in the air.
 
-<img src="Documentation/img/cosmicpaper_3_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_3_cover.jpg">
 There is a baby in the middle of the page, who is protected by a bubble. Surrounding him are more bubbles that are smaller, that are interacting with other geometrical shapes. As they meet each other, new shapes are created. There is a sun inside a puddle under the baby and his bubble. There colours are purple, green and off-white color.
 
-<img src="Documentation/img/cosmicpaper_4_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_4_cover.jpg">
 There are some tall trees on top of a mountain. There are more mountains in the distance., and some roads are leading towards them. The sun is also rising in the distance, behind the mountains, in the right, but the moon is also visible on the left. It’s a crescent moon. The colours are blue, yellow, green and white.
 
-<img src="Documentation/img/cosmicpaper_5_cover.jpg">
-<img src="Documentation/img/cosmicpaper_6_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_5_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_6_cover.jpg">
 There is a quote about a dream that is illustrated. There are different typed of flowers, some butterflies that are interacting with the flowers and a man, standing in the middle of a big white flower. There are many different colours used, mainly shades of red, and blue, with an all black background.
 
-<img src="Documentation/img/cosmicpaper_9_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_9_cover.jpg">
 There is dotted texture throughout the whole cover, with different shades of turquoise and white text.
 
-<img src="Documentation/img/cosmicpaper_10_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_10_cover.jpg">
 There is a lotus flower in the middle on the left, and a woman in the middle on the right. Behind the woman in the distance there is a man . The lotus flower, and the woman with the man are surrounded by circles, and are connected to each other. The woman is holding balls/oranges in both her hands, one in each, holding them upward. She in under the moon and the man is looking out from the sun. The main colours are dark turquoise green, orange and white.
 
-<img src="Documentation/img/cosmicpaper_11_cover.jpg">
-<img src="Documentation/img/cosmicpaper_12_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_11_cover.jpg">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_12_cover.jpg">
 
 
 ## Transcoding No. 2
@@ -126,11 +126,11 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 
 ## Transcoding No. 3 
 ### Transcoding 3 explores the illustrations within the Cosmic Paper magazines and how they interact with each other by making a big collage of them.
-<img src="Documentation/img/cosmic paper illustrations.png">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmic%20paper%20illustrations.png">
 
 ## Transcoding No. 4 
 ### Transcoding 3 explores the illustrative typography within the Cosmic Paper magazines and how they interact with each other by making a big collage of them.
-<img src="Documentation/img/cosmic paper illustrative typo.png">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmic%20paper%20illustrative%20typo.png">
 
 
 
