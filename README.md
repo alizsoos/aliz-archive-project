@@ -13,10 +13,10 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
-# Artefact
+## Artefact
 Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendrikkade in Amsterdam, the center that in the years 1969 to 1992 opened its doors to hundreds of thousands of young people in search for enlightenment, self-development and entertainment.  
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [NIBG (Perscollectie) PM 16759](https://search.iisg.amsterdam/Record/1109411)
@@ -27,7 +27,7 @@ Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendri
 | **Date** | 1972
 <img src="Documentation/img/cosmicpaper1.jpg">| One of the covers for the magazine Cosmic paper. A magazine for cosmic science with information, meditation and action, all in bold, expressive and colorful illustrations, symbolism and typography. 
 
-# Cosmic Paper, the magazine of De Kosmos                                           
+## Cosmic Paper, the magazine of De Kosmos                                           
 
 
 Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendrikkade in Amsterdam, the center that in the years 1969 to 1992 opened its doors to hundreds of thousands of young people in search for enlightenment, self-development and entertainment. Cosmic Paper was the successor of De Kosmos’ first magazine, Lemuria, with twelve issues. Cosmic Paper published in total ten issues, the first issue came out in March 1972 and three years later, spring 1975, the last issue no. 12 saw the light. The numbering runs from 1 to 6 and then from 9 to 12. The issues no. 7 and no. 8 were never published. This jump in the numbering of issues probably had to do with the fact that the original planning of publishing a quarterly magazine could not be achieved. From the first issue onward Cosmic Paper profiled itself as the magazine with “a new age
@@ -35,13 +35,13 @@ approach to the now”. It rapidly became an icon of the hippie years of the beg
 
 The ten issues were produced (“karmayogad together”) by a variable group of enthusiastic and driven staff workers, volunteers and artists, including a few people that set the tone during these three exciting years. When we browse through the issues, we get a clear view of those years of a rapidly changing interpretation of spirituality and self-development.
 
-## A radical magazine 
+### A radical magazine 
 Cosmic Paper was a magazine with a radical mission: sitting silent with eyes closed, lighting a joint or a prior consultation of the I Ching, it was absolutely not enough. It had to be a magazine for cosmic science with information, meditation and action, preferably in bold.
 
 This vision had its roots in the beat and pop culture of America and Britain with their underground and multimedia arts and in the colourful mysticism from India, Tibet and Japan that was very popular in the West. Among the pioneers were for instance Richard Alpert (author of Be Here Now), Stephen Durkee (founder of Lama Foundation), Stephen Gaskin
 (founder of The Farm) and Simon Vinkenoog (poet). They all had quite some influence on the style of Cosmic Paper. 
 
-## To Change the World
+### To Change the World
 Cosmic Paper wanted to change the world fast. The old world was ultimately dismissed and the new world had to be built. This came about through embracing all religious and spiritual theories and practices, through expanding the consciousness via soon to be legalized drugs and psychedelics, natural living and study. 
 
 All over the world communes and spiritual initiatives were founded and Cosmic Paper wanted to be their voice. Even more, Cosmic Paper was the centre of a network of Dutch and international intentional communities, a network that was excellently documented in A Pilgrim’s Guide to Planet Earth, a reference book from this period. 
@@ -89,11 +89,11 @@ scientific approach, taking into account its priorities. “First the archive of
 Kosmos”.
 
 
-# Transcoding
+## Transcoding
 *The focus of this project is exploring the visual and auditory language of the new Age movement, based on my findings and research on De Kosmos meditation centre, their magazine Called the Cosmic Papers and people and events that were involved with this organisation.* 
 
-## Transcoding No. 1
-### Transcoding 1 is the literary descriptions of the covers of the issues of Cosmic Papers. 
+### Transcoding No. 1
+#### Transcoding 1 is the literary descriptions of the covers of the issues of Cosmic Papers. 
 <img src="Documentation/img/cosmicpaper_1_cover.jpg">
 A woman is in industrial looking cosmic space surrounded by different types of structures, machine looking planets or aliens and mountains. The colours are light pink, dark blue and white. Her hair is pointing upwards and part of her head is made of the machine looking planets/aliens/structures. Everything seems to be connected to each other.
 
@@ -178,7 +178,7 @@ Please include links to the tools, sources etc used during the coding. E.g. the 
 # Reflection
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. 
 
-# Outcomes
+## Outcomes
 This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible. 
 
 ### Outcome Links
@@ -186,7 +186,7 @@ Here you link to your final assignment outcomes. This could be a website, a vide
 
 This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
 
-# Conclusion 
+## Conclusion 
 You might have a nice conclusive observation to share at the end :) 
 
 ## Bibliography
