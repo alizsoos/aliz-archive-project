@@ -3,15 +3,15 @@
 
 ### Table of Contents
 1. [artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+    1. [aetadata](#Metadata)
+2. [research](#Research-h1)
+3. [transcoding](#Transcoding)
+    1. [transcoding No. 1](#Transcoding-no-1)
+    2. [transcoding Tool](#Transcoding-tool)
+4. [reflection](#Reflection)
+5. [outcome](#Outcome)
+6. [conclusion](#Conclusion)
+7. [bibliography](#Bibliography) 
 
 ## Artefact
 Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendrikkade in Amsterdam, the center that in the years 1969 to 1992 opened its doors to hundreds of thousands of young people in search for enlightenment, self-development and entertainment.  
