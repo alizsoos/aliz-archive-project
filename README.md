@@ -25,7 +25,7 @@ Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendri
 | **Medium** | Magazine
 | **Materials** | Paper
 | **Date** | 1972
-<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper1.jpg" width="50%">| One of the covers for the magazine Cosmic paper. A magazine for cosmic science with information, meditation and action, all in bold, expressive and colorful illustrations, symbolism and typography. 
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper1.jpg" width="40%">| One of the covers for the magazine Cosmic paper. A magazine for cosmic science with information, meditation and action, all in bold, expressive and colorful illustrations, symbolism and typography. 
 
 ## Cosmic Paper, the magazine of De Kosmos                                           
 
