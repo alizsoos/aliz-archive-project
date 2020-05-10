@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cp.png" width="100%">](#)
+[<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cp.png" width="100%">](#)
 # Cosmic Paper README.md 
 
 ### Table of Contents
