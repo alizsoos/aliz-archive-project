@@ -1,5 +1,5 @@
 [<img src="Documentation/img/cp.png" width="100%">](#)
-# Aliz Cosmic Paper README.md 
+# Cosmic Paper README.md 
 
 ### Table of Contents
 1. [Artefact](#Artefact)
@@ -61,7 +61,7 @@ The concern for people at the bottom of society was also typical for Cosmic Pape
 
 Another typical trait was the talent for public relations. The latest trends were given a forum. Great spiritual leaders such as HH the Dalai Lama, as well as common folk, were photographed while reading Cosmic Paper.
 
-# De Kosmos' relation to IISH
+## De Kosmos' relation to IISH
 
 Friday, July 8, 2016, the Kosmos Archive, as housed at the International Institute of Social History
 (IISH), was given status.
