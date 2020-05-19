@@ -94,6 +94,9 @@ We have volunteered (no cost) to the IISH. The IISH is prepared to continue in a
 scientific approach, taking into account its priorities. “First the archive of Karl Marx, then De
 Kosmos”.
 
+Photos of the De Kosmos archive at the IISH 
+https://www.notion.so/b7a914c302364ddb98012260044dcc4d?v=f52f719a66274ec8a7cf94b2d404f08d  
+
 
 ## Transcoding
 *The focus of this project is exploring the visual and auditory language of the new Age movement, based on my findings and research on De Kosmos meditation centre, their magazine Called the Cosmic Papers and people and events that were involved with this organisation.* 
@@ -241,8 +244,7 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 
 
 ### Methods
-Photos of the De Kosmos archive at the IISG 
-https://www.notion.so/b7a914c302364ddb98012260044dcc4d?v=f52f719a66274ec8a7cf94b2d404f08d   
+ 
 
 With some HTML tags you can do simple styling in markdown, for example:
 
