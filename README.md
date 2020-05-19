@@ -241,7 +241,8 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
+Photos of the De Kosmos archive at the IISG 
+https://www.notion.so/b7a914c302364ddb98012260044dcc4d?v=f52f719a66274ec8a7cf94b2d404f08d   
 
 With some HTML tags you can do simple styling in markdown, for example:
 
