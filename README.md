@@ -7,6 +7,12 @@
 2. [research](#Research-h1)
 3. [transcoding](#Transcoding)
     1. [transcoding No. 1](#Transcoding-no-1)
+       [transcoding No. 2](#Transcoding-no-2)
+       [transcoding No. 3](#Transcoding-no-3)
+       [transcoding No. 4](#Transcoding-no-4)
+       [transcoding No. 5](#Transcoding-no-5)
+       [transcoding No. 6](#Transcoding-no-6)
+       [transcoding No. 7](#Transcoding-no-7)
     2. [transcoding Tool](#Transcoding-tool)
 4. [reflection](#Reflection)
 5. [outcome](#Outcome)
@@ -108,7 +114,7 @@ There are some tall trees on top of a mountain. There are more mountains in the 
 
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_5_cover.jpg">
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_6_cover.jpg">
-There is a quote about a dream that is illustrated. There are different typed of flowers, some butterflies that are interacting with the flowers and a man, standing in the middle of a big white flower. There are many different colours used, mainly shades of red, and blue, with an all black background.
+There is a quote about a dream that is illustrated. There are different types of flowers, some butterflies that are interacting with the flowers and a man, standing in the middle of a big white flower. There are many different colours used, mainly shades of red, and blue, with an all black background.
 
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmicpaper_9_cover.jpg">
 There is dotted texture throughout the whole cover, with different shades of turquoise and white text.
@@ -129,8 +135,11 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmic%20paper%20illustrations.png">
 
 ## Transcoding No. 4 
-### Transcoding 3 explores the illustrative typography within the Cosmic Paper magazines and how they interact with each other by making a big collage of them.
+### Transcoding 4 explores the illustrative typography within the Cosmic Paper magazines and how they interact with each other by making a big collage of them.
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cosmic%20paper%20illustrative%20typo.png">
+
+## Transcoding No. 5 
+### Transcoding 5 what is the meaning behind symbols, that are being utilised so much throughout the pages? What do the selected symbols/symbolic illustrations from the Cosmic Papers mean by using images to search through different search engines such as Google Images. 
 
 
 
