@@ -244,14 +244,12 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 
 ## Transcoding Tool 
 ### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
 #### 1st coding tool:
 The first coding tool I made was a collage generator, using the illustrations and found images from Transcoding5.  
 
 #### 2nd coding tool:
-
-
+A website that provides information and visual examples about the visual language of esoteric symbolism and how it can be interpreted, emphasising the key visual elements used in the Cosmic Papers. 
 
 ### Aims
 
@@ -259,25 +257,23 @@ The first coding tool I made was a collage generator, using the illustrations an
 I wanted to see what happens if i mix them together, if they become interesting interpretive material, if there will new meaning created. 
 
 #### 2nd coding tool: 
-
+The Cosmic Papers already have a very strong, recognisable visual language, and  this coding tool will not only emphasise this and highlight its identity even more, but also translate its meaning, give it substance. 
 
 ### Methods
 HTML, CSS, JavaScript
 
 ### Results
 
+*will add more on Sunday*
+
 ### Source Links
 
 collage generator https://alizsoos.github.io/-transcoding-collage-.github.io/ 
+*will add on Sunday*
 
-# Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. 
-
-## Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible. 
 
 ### Outcome Links
-
+*will add on Sunday*
 
 ## Bibliography
 
@@ -285,7 +281,7 @@ This section will be different for each student, depending on how and what is fo
 - *Nozedar, Adele. The Element Encyclopedia of Secret Signs and Symbols: the Ultimate A-Z Guide from Alchemy to the Zodiac. HarperElement, 2009.*
 
 **The Art of Colorl**
-*Itten, Johannes. The Art of Color: the Subjective Experience and Objective Rationale of Color. Reinhold Pub. Corp., 1973.*
+- *Itten, Johannes. The Art of Color: the Subjective Experience and Objective Rationale of Color. Reinhold Pub. Corp., 1973.*
 
 
 
