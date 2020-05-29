@@ -12,12 +12,9 @@
     - [Transcoding No. 4](#Transcoding-no-4)
     - [Transcoding No. 5](#Transcoding-no-5)
     - [Transcoding No. 6](#Transcoding-no-6)
-    - [Transcoding No. 7](#Transcoding-no-7)
     2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
 5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+6. [Bibliography](#Bibliography) 
 
 ## Artefact
 Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendrikkade in Amsterdam, the center that in the years 1969 to 1992 opened its doors to hundreds of thousands of young people in search for enlightenment, self-development and entertainment.  
@@ -271,9 +268,12 @@ HTML, CSS, JavaScript
 collage generator https://alizsoos.github.io/-transcoding-collage-.github.io/ 
 *will add on Sunday*
 
+## Outcome
 
 ### Outcome Links
 *will add on Sunday*
+
+
 
 ## Bibliography
 
