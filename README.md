@@ -261,11 +261,23 @@ HTML, CSS, JavaScript
 
 ### Results
 
+Transcoding tool 1 collage examples: 
+
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage1.png" width="40%">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage2.png" width="40%">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage3.png" width="40%">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage4.png" width="40%">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage5.png" width="40%">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage6.png" width="40%">
+
+
+
 *will add more on Sunday*
 
 ### Source Links
 
 collage generator https://alizsoos.github.io/-transcoding-collage-.github.io/ 
+
 *will add on Sunday*
 
 ## Outcome
