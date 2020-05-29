@@ -272,13 +272,14 @@ Here you link to your final assignment outcomes. This could be a website, a vide
 
 This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
 
-## Conclusion 
-You might have a nice conclusive observation to share at the end :) 
 
 ## Bibliography
 
 **The Element Encyclopedia of Secret Signs and Symbol**
-* Nozedar, Adele. The Element Encyclopedia of Secret Signs and Symbols: the Ultimate A-Z Guide from Alchemy to the Zodiac. HarperElement, 2009.
+- *Nozedar, Adele. The Element Encyclopedia of Secret Signs and Symbols: the Ultimate A-Z Guide from Alchemy to the Zodiac. HarperElement, 2009.*
+
+**The Art of Colorl**
+*Itten, Johannes. The Art of Color: the Subjective Experience and Objective Rationale of Color. Reinhold Pub. Corp., 1973.*
 
 
 
