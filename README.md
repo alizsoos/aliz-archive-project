@@ -145,7 +145,10 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 ### Transcoding 5 what is the meaning behind symbols, that are being utilised so much throughout the pages? What do the selected symbols/symbolic illustrations from the Cosmic Papers mean by using images to search through different search engines such as Google Images. 
 
 [<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/1.png" align="right" width="60%">](#)
-[<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/1.2.png" align="center" width="30%">](#)
+
+<p align="center">
+[<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/1.2.png" width="30%">](#)
+   </p> 
 [<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/10.png" align="left" width="30%">](#)
 [<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/10.1.png" width="60%">](#)
 [<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/10.2.png" width="60%">](#)
