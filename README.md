@@ -238,28 +238,37 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/9.png" width="20%">
 </Images>
 
+## Transcoding No. 6 
+### Transcoding 6 dives into the meaning of esoteric symbolism, as well as color and shape theory and psychology to have a better look into the visual language that is use in the Cosmic Paper. 
 
-
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
 
 ## Transcoding Tool 
 ### Description
 You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
+#### 1st coding tool:
+The first coding tool I made was a collage generator, using the illustrations and found images from Transcoding5.  
+
+#### 2nd coding tool:
+
+
+
 ### Aims
-Include the main aims or intentions behind making the tool, and what it is used for. 
+
+#### 1st coding tool: 
+I wanted to see what happens if i mix them together, if they become interesting interpretive material, if there will new meaning created. 
+
+#### 2nd coding tool: 
+
 
 ### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
+HTML, CSS, JavaScript
 
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here. 
 
 ### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
- 
+
+collage generator https://alizsoos.github.io/-transcoding-collage-.github.io/ 
 
 # Reflection
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. 
@@ -268,9 +277,6 @@ You might want to include a section about reflecting on the results of your codi
 This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible. 
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored. 
-
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
 
 
 ## Bibliography
