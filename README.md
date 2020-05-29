@@ -1,23 +1,23 @@
 [<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/cp.png" width="100%">](#)
-# Cosmic Paper README.md 
+# Cosmic Paper 
 
 ### Table of Contents
-1. [artefact](#Artefact)
-    1. [metadata](#Metadata)
-2. [research](#Research-h1)
-3. [transcoding](#Transcoding)
-    1. [transcoding No. 1](#Transcoding-no-1)
-       [transcoding No. 2](#Transcoding-no-2)
-       [transcoding No. 3](#Transcoding-no-3)
-       [transcoding No. 4](#Transcoding-no-4)
-       [transcoding No. 5](#Transcoding-no-5)
-       [transcoding No. 6](#Transcoding-no-6)
-       [transcoding No. 7](#Transcoding-no-7)
-    2. [transcoding Tool](#Transcoding-tool)
-4. [reflection](#Reflection)
-5. [outcome](#Outcome)
-6. [conclusion](#Conclusion)
-7. [bibliography](#Bibliography) 
+1. [Artefact](#Artefact)
+    1. [Metadata](#Metadata)
+2. [Research](#Research-h1)
+3. [Transcoding](#Transcoding)
+    1. [Transcoding No. 1](#Transcoding-no-1)
+       [Transcoding No. 2](#Transcoding-no-2)
+       [Transcoding No. 3](#Transcoding-no-3)
+       [Transcoding No. 4](#Transcoding-no-4)
+       [Transcoding No. 5](#Transcoding-no-5)
+       [Transcoding No. 6](#Transcoding-no-6)
+       [Transcoding No. 7](#Transcoding-no-7)
+    2. [Transcoding Tool](#Transcoding-tool)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography) 
 
 ## Artefact
 Cosmic Paper was the magazine of De Kosmos Meditation Center at the Prins Hendrikkade in Amsterdam, the center that in the years 1969 to 1992 opened its doors to hundreds of thousands of young people in search for enlightenment, self-development and entertainment.  
