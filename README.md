@@ -276,7 +276,9 @@ This is the main way to access your IMD + Coding outcomes for the semester. So i
 You might have a nice conclusive observation to share at the end :) 
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
+**The Element Encyclopedia of Secret Signs and Symbol**
+* Nozedar, Adele. The Element Encyclopedia of Secret Signs and Symbols: the Ultimate A-Z Guide from Alchemy to the Zodiac. HarperElement, 2009.
+
+
 
