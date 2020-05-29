@@ -144,8 +144,8 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 ## Transcoding No. 5 
 ### Transcoding 5 what is the meaning behind symbols, that are being utilised so much throughout the pages? What do the selected symbols/symbolic illustrations from the Cosmic Papers mean by using images to search through different search engines such as Google Images. 
 <details>
-<summary>Example</summary>
-<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/1.png" width="60%">]
+<summary>Images</summary>
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/1.png" width="60%">
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/1.2.png" width="40%">
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/10.png" width="40%">
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/10.1.png" width="40%">
@@ -235,28 +235,10 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/8.1.png" width="40%">
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/8.2.png" width="40%">
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/9.png" width="40%">
-</details>
+</Images>
 
 
 
-
-
-
-
-
-### Methods
- 
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-<!---[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)--->--->
-
-Remember to include the url link to jump to the full media, of course! 
-
-
-### Tools 
-Mention the tools that you used or made (if and when relevant). 
 
 ### Results
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
