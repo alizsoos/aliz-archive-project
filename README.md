@@ -279,6 +279,9 @@ Transcoding tool 1 collage examples:
 
 Transcoding tool 2 (outcome) 
 
+<video src="https://github.com/alizsoos/Cosmic-Paper/blob/master/cp%20peek3.mp4" width="60%">
+
+
 
 
 ### Source Links
