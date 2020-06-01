@@ -238,6 +238,14 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 ## Transcoding No. 6 
 ### Transcoding 6 dives into the meaning of esoteric symbolism, as well as color and shape theory and psychology to have a better look into the visual language that is use in the Cosmic Paper. 
 
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/lotus.png" width="50%">
+
+In Buddhism, the lotus is a symbol of the Buddha’s awakening and a reminder that all beings have the same potential to attain enlightenment. The lotus grows out of mud and rises to the water’s surface to bloom in beauty and purity, so too can the human develop the virtues of a Buddha and rise above desire and attachment to reveal the true nature.
+
+The stage of the lotus flower represents the stages on the spiritual path. For example, a closed bud is synonymous with the beginning of the journey. A partly open flower indicates walking the path. A fully blooming flower signifies the end of the journey--enlightenment.
+
+
+
 
 ## Transcoding Tool 
 ### Description
@@ -278,13 +286,12 @@ Transcoding tool 1 collage examples:
 
 collage generator https://alizsoos.github.io/-transcoding-collage-.github.io/ 
 
-*will add on Sunday*
+https://alizsoos.github.io/Cosmic-Paper/
 
 ## Outcome
 
 ### Outcome Links
-*will add on Sunday*
-
+https://alizsoos.github.io/Cosmic-Paper/
 
 
 ## Bibliography
@@ -292,7 +299,7 @@ collage generator https://alizsoos.github.io/-transcoding-collage-.github.io/
 **The Element Encyclopedia of Secret Signs and Symbol**
 - *Nozedar, Adele. The Element Encyclopedia of Secret Signs and Symbols: the Ultimate A-Z Guide from Alchemy to the Zodiac. HarperElement, 2009.*
 
-**The Art of Colorl**
+**The Art of Color**
 - *Itten, Johannes. The Art of Color: the Subjective Experience and Objective Rationale of Color. Reinhold Pub. Corp., 1973.*
 
 
