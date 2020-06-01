@@ -281,9 +281,9 @@ Transcoding tool 2 (outcome)
 
 <video controls="controls">
   <source type="video/mp4" src="https://github.com/alizsoos/Cosmic-Paper/blob/master/cp%20peek3.mp4"></source>
+  <source type="video/webm" src="https://github.com/alizsoos/Cosmic-Paper/blob/master/cp%20peek3.webm"></source>
   <p>Your browser does not support the video element.</p>
 </video>
-
 
 
 
