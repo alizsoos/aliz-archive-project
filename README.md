@@ -264,7 +264,7 @@ I wanted to see what happens if i mix them together, if they become interesting 
 The Cosmic Papers already have a very strong, recognisable visual language, and  this coding tool will not only emphasise this and highlight its identity even more, but also translate its meaning, give it substance. 
 
 ### Methods
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Photoshop, Premier Pro
 
 ### Results
 
@@ -277,17 +277,17 @@ Transcoding tool 1 collage examples:
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage5.png" width="40%">
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage6.png" width="40%">
 
+Transcoding tool 2 (outcome) 
 
 
-*will add more on Sunday*
 
 ### Source Links
 
 collage generator https://alizsoos.github.io/-transcoding-collage-.github.io/ 
 
-https://alizsoos.github.io/Cosmic-Paper/
 
 ## Outcome
+This transcoding tool explores and emphasises that visual language that that had been used thrughout the Cosmic Paper magazines, as well as provides what kind of information some of those elements contain. There are lots of symbolism that had been used in numerous religions or belief systems, certains colors with specific meanings and reoccuring visual characteristics such as symmetry, or an illustrative, figurative language that had been used throughout the issues of Cosmic Paper. 
 
 ### Outcome Links
 https://alizsoos.github.io/Cosmic-Paper/
