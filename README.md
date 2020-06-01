@@ -238,11 +238,10 @@ There is a lotus flower in the middle on the left, and a woman in the middle on 
 ## Transcoding No. 6 
 ### Transcoding 6 dives into the meaning of esoteric symbolism, as well as color and shape theory and psychology to have a better look into the visual language that is use in the Cosmic Paper. 
 
-<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/lotus.png" width="50%">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/colors%20and%20symbolism.png" width="80%">
+<img src="https://github.com/alizsoos/aliz-archive-project/blob/master/colors%20and%20symbolism2.png" width="80%">
 
-In Buddhism, the lotus is a symbol of the Buddha’s awakening and a reminder that all beings have the same potential to attain enlightenment. The lotus grows out of mud and rises to the water’s surface to bloom in beauty and purity, so too can the human develop the virtues of a Buddha and rise above desire and attachment to reveal the true nature.
 
-The stage of the lotus flower represents the stages on the spiritual path. For example, a closed bud is synonymous with the beginning of the journey. A partly open flower indicates walking the path. A fully blooming flower signifies the end of the journey--enlightenment.
 
 
 
