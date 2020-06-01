@@ -278,9 +278,11 @@ Transcoding tool 1 collage examples:
 <img src="https://github.com/alizsoos/aliz-archive-project/blob/master/Documentation/img/collage6.png" width="40%">
 
 Transcoding tool 2 (outcome) 
-<img src="https://github.com/alizsoos/Cosmic-Paper/blob/master/Screenshot%202020-06-01%20at%2008.54.47.png" width="50%">
-<img src="https://github.com/alizsoos/Cosmic-Paper/blob/master/Screenshot%202020-06-01%20at%2008.55.15.png" width="50%">
-<img src="https://github.com/alizsoos/Cosmic-Paper/blob/master/Screenshot%202020-06-01%20at%2008.55.29.png" width="50%">
+<img src="https://github.com/alizsoos/Cosmic-Paper/blob/master/Screenshot%202020-06-01%20at%2008.54.47.png" width="80%">
+
+<img src="https://github.com/alizsoos/Cosmic-Paper/blob/master/Screenshot%202020-06-01%20at%2008.55.15.png" width="80%">
+
+<img src="https://github.com/alizsoos/Cosmic-Paper/blob/master/Screenshot%202020-06-01%20at%2008.55.29.png" width="80%">
 
 
 ### Source Links
